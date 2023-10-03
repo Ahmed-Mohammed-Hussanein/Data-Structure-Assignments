@@ -1,1 +1,1 @@
-# Linked List And Hash Table with nice GUI
+# Linked List and Hash Table
